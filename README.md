@@ -1,4 +1,5 @@
 System Description
+
 This project implements an integrated automotive ignition and low beam headlight control system using an embedded platform. 
 The ignition subsystem verifies that both the driver and passenger seats are occupied and that both seatbelts are fastened before enabling engine start (indicated by a green LED). 
 Once enabled, pressing the ignition button starts the engine (blue LED on) or, if conditions are not met, displays appropriate error messages on the serial monitor. 
